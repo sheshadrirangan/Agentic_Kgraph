@@ -1,0 +1,51 @@
+Audit_ID,Entity_ID,Action,User,Timestamp,Notes
+AUD4000,B30009,RESOLVE_BREAK,GPM_Analyst1,2025-04-28 08:28:05,Logged by automation
+AUD4001,B30013,RESOLVE_BREAK,CustodyOps,2025-07-25 00:06:40,Escalated following SLA breach
+AUD4002,B30012,CREATE_BREAK,StaticDataTeam,2025-08-28 09:23:55,Logged by automation
+AUD4003,B30014,RESOLVE_BREAK,GPM_Lead,2025-05-17 08:21:09,Resolved after SSI update
+AUD4004,B30006,RESOLVE_BREAK,CustodyOps,2025-06-02 20:32:44,Manual update after counterparty confirmation
+AUD4005,B30010,RESOLVE_BREAK,GPM_Analyst1,2025-09-20 20:36:10,Logged by automation
+AUD4006,B30026,RESOLVE_BREAK,CustodyOps,2025-07-24 21:54:59,Escalated following SLA breach
+AUD4007,B30023,ESCALATE_TO_IT,GPM_Analyst1,2025-02-02 21:32:46,Logged by automation
+AUD4008,B30005,ESCALATE_TO_IT,GPM_Analyst2,2025-06-28 06:34:15,Logged by automation
+AUD4009,B30010,CREATE_BREAK,GPM_Analyst1,2025-02-03 12:11:46,Logged by automation
+AUD4010,B30023,CREATE_BREAK,GPM_Analyst1,2025-02-03 07:23:05,Manual update after counterparty confirmation
+AUD4011,B30007,ASSIGN_ANALYST,GPM_Analyst2,2025-08-27 04:52:58,Escalated following SLA breach
+AUD4012,B30000,ASSIGN_ANALYST,GPM_Lead,2025-04-19 18:43:13,Resolved after SSI update
+AUD4013,B30020,RESOLVE_BREAK,GPM_Lead,2025-01-11 01:57:33,Escalated following SLA breach
+AUD4014,B30001,CREATE_BREAK,StaticDataTeam,2025-05-27 05:25:27,Manual update after counterparty confirmation
+AUD4015,B30021,ESCALATE_TO_IT,StaticDataTeam,2025-08-24 16:41:43,Logged by automation
+AUD4016,B30007,ESCALATE_TO_IT,GPM_Analyst2,2025-05-11 10:00:58,Escalated following SLA breach
+AUD4017,B30000,ASSIGN_ANALYST,StaticDataTeam,2025-08-18 05:48:01,Escalated following SLA breach
+AUD4018,B30016,ESCALATE_TO_IT,CustodyOps,2025-08-03 03:41:54,Logged by automation
+AUD4019,B30018,UPDATE_POSITION,GPM_Lead,2025-09-30 02:57:25,Escalated following SLA breach
+AUD4020,B30022,CREATE_BREAK,CustodyOps,2025-06-28 17:15:58,Resolved after SSI update
+AUD4021,B30016,UPDATE_POSITION,GPM_Lead,2025-01-28 22:00:44,Escalated following SLA breach
+AUD4022,B30016,ASSIGN_ANALYST,StaticDataTeam,2025-03-22 11:58:34,Logged by automation
+AUD4023,B30029,UPDATE_POSITION,GPM_Lead,2025-08-06 13:15:33,Logged by automation
+AUD4024,B30029,UPDATE_POSITION,GPM_Analyst1,2025-03-27 11:51:46,Resolved after SSI update
+AUD4025,B30018,ASSIGN_ANALYST,StaticDataTeam,2025-02-02 05:28:00,Escalated following SLA breach
+AUD4026,B30026,CREATE_BREAK,GPM_Lead,2025-02-24 03:36:00,Logged by automation
+AUD4027,B30016,RESOLVE_BREAK,CustodyOps,2025-06-21 12:45:42,Escalated following SLA breach
+AUD4028,B30029,ESCALATE_TO_IT,GPM_Lead,2025-06-29 10:08:06,Escalated following SLA breach
+AUD4029,B30005,ESCALATE_TO_IT,CustodyOps,2025-06-06 09:46:53,Logged by automation
+AUD4030,B30005,RESOLVE_BREAK,GPM_Analyst2,2025-02-14 08:23:14,Escalated following SLA breach
+AUD4031,B30008,ASSIGN_ANALYST,StaticDataTeam,2025-04-09 05:15:20,Resolved after SSI update
+AUD4032,B30015,CREATE_BREAK,GPM_Analyst2,2025-06-04 06:14:34,Logged by automation
+AUD4033,B30002,UPDATE_POSITION,GPM_Lead,2025-08-21 05:28:57,Resolved after SSI update
+AUD4034,B30009,ASSIGN_ANALYST,StaticDataTeam,2025-02-14 03:50:46,Manual update after counterparty confirmation
+AUD4035,B30018,ESCALATE_TO_IT,GPM_Analyst1,2025-03-23 07:39:15,Resolved after SSI update
+AUD4036,B30019,ESCALATE_TO_IT,StaticDataTeam,2025-08-22 20:07:27,Resolved after SSI update
+AUD4037,B30026,UPDATE_POSITION,StaticDataTeam,2025-06-07 21:51:19,Escalated following SLA breach
+AUD4038,B30014,UPDATE_POSITION,GPM_Analyst2,2025-09-12 23:48:49,Logged by automation
+AUD4039,B30005,ESCALATE_TO_IT,CustodyOps,2025-03-30 17:22:51,Resolved after SSI update
+AUD4040,B30006,ESCALATE_TO_IT,CustodyOps,2025-08-13 23:02:19,Logged by automation
+AUD4041,B30026,CREATE_BREAK,GPM_Analyst1,2025-04-18 02:12:48,Logged by automation
+AUD4042,B30026,RESOLVE_BREAK,CustodyOps,2025-06-14 07:31:15,Escalated following SLA breach
+AUD4043,B30025,ASSIGN_ANALYST,GPM_Lead,2025-06-23 07:50:57,Manual update after counterparty confirmation
+AUD4044,B30003,RESOLVE_BREAK,StaticDataTeam,2025-08-02 03:58:59,Escalated following SLA breach
+AUD4045,B30004,ESCALATE_TO_IT,CustodyOps,2025-06-11 22:34:43,Escalated following SLA breach
+AUD4046,B30024,UPDATE_POSITION,GPM_Analyst2,2025-02-02 01:14:47,Resolved after SSI update
+AUD4047,B30026,UPDATE_POSITION,GPM_Analyst2,2025-02-28 00:06:03,Manual update after counterparty confirmation
+AUD4048,B30006,RESOLVE_BREAK,GPM_Lead,2025-06-25 04:47:13,Resolved after SSI update
+AUD4049,B30001,RESOLVE_BREAK,GPM_Analyst1,2025-02-12 12:17:16,Resolved after SSI update

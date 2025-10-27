@@ -1,0 +1,6 @@
+
+SLA: GPM Breaks
+- High severity: Resolve within 1 business hour.
+- Medium severity: Resolve within T+1 business day.
+- Low severity: Resolve within T+3 business days.
+- ITSM tickets created by GPM must include Root Cause Analysis prior to closure.

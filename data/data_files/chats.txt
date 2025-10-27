@@ -1,0 +1,58 @@
+[2025-09-14 00:38:51] ops_analyst: Created break B30015 for trade T9029
+[2025-09-14 00:48:51] custody_ops: Checking SSI registry for CP CP020
+[2025-09-14 01:03:51] it_support: Observed MQ lag; creating ticket ITSM7000
+[2025-09-14 01:38:51] ops_lead: If not resolved within SLA (Low), escalate to Treasury
+
+
+[2025-04-30 04:48:35] ops_analyst: Created break B30005 for trade T9049
+[2025-04-30 04:58:35] custody_ops: Checking SSI registry for CP CP008
+[2025-04-30 05:13:35] it_support: Observed MQ lag; creating ticket ITSM7025
+[2025-04-30 05:48:35] ops_lead: If not resolved within SLA (High), escalate to Treasury
+
+
+[2025-02-24 02:45:42] ops_analyst: Created break B30028 for trade T9034
+[2025-02-24 02:55:42] custody_ops: Checking SSI registry for CP CP004
+[2025-02-24 03:10:42] it_support: Observed MQ lag; creating ticket ITSM7022
+[2025-02-24 03:45:42] ops_lead: If not resolved within SLA (Low), escalate to Treasury
+
+
+[2025-08-21 05:04:23] ops_analyst: Created break B30016 for trade T9043
+[2025-08-21 05:14:23] custody_ops: Checking SSI registry for CP CP007
+[2025-08-21 05:29:23] it_support: Observed MQ lag; creating ticket ITSM7010
+[2025-08-21 06:04:23] ops_lead: If not resolved within SLA (Medium), escalate to Treasury
+
+
+[2025-02-08 14:59:34] ops_analyst: Created break B30010 for trade T9002
+[2025-02-08 15:09:34] custody_ops: Checking SSI registry for CP CP001
+[2025-02-08 15:24:34] it_support: Observed MQ lag; creating ticket ITSM7024
+[2025-02-08 15:59:34] ops_lead: If not resolved within SLA (High), escalate to Treasury
+
+
+[2025-02-16 14:42:29] ops_analyst: Created break B30007 for trade T9044
+[2025-02-16 14:52:29] custody_ops: Checking SSI registry for CP CP004
+[2025-02-16 15:07:29] it_support: Observed MQ lag; creating ticket ITSM7023
+[2025-02-16 15:42:29] ops_lead: If not resolved within SLA (Medium), escalate to Treasury
+
+
+[2025-07-09 17:42:57] ops_analyst: Created break B30006 for trade T9026
+[2025-07-09 17:52:57] custody_ops: Checking SSI registry for CP CP001
+[2025-07-09 18:07:57] it_support: Observed MQ lag; creating ticket ITSM7007
+[2025-07-09 18:42:57] ops_lead: If not resolved within SLA (High), escalate to Treasury
+
+
+[2025-04-30 04:48:35] ops_analyst: Created break B30005 for trade T9049
+[2025-04-30 04:58:35] custody_ops: Checking SSI registry for CP CP008
+[2025-04-30 05:13:35] it_support: Observed MQ lag; creating ticket ITSM7018
+[2025-04-30 05:48:35] ops_lead: If not resolved within SLA (High), escalate to Treasury
+
+
+[2025-02-08 14:59:34] ops_analyst: Created break B30010 for trade T9002
+[2025-02-08 15:09:34] custody_ops: Checking SSI registry for CP CP001
+[2025-02-08 15:24:34] it_support: Observed MQ lag; creating ticket ITSM7011
+[2025-02-08 15:59:34] ops_lead: If not resolved within SLA (High), escalate to Treasury
+
+
+[2025-02-14 01:12:40] ops_analyst: Created break B30002 for trade T9041
+[2025-02-14 01:22:40] custody_ops: Checking SSI registry for CP CP003
+[2025-02-14 01:37:40] it_support: Observed MQ lag; creating ticket ITSM7017
+[2025-02-14 02:12:40] ops_lead: If not resolved within SLA (High), escalate to Treasury

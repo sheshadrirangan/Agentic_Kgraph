@@ -1,0 +1,7 @@
+
+SOP: GPM Break Handling - Key Steps
+1. Detection: Automated reconciliation at T+0 flags exceptions in ReconciliationEngine.
+2. Classification: Break types include Cash_Break, Quantity_Mismatch, SSI_Issue, CA_Mismatch, Others.
+3. Assignment: Breaks auto-route to GPM queue; critical ones assigned to GPM_Lead.
+4. Resolution: Engage StaticData, CustodyOps, or IT (MQGateway) depending on root cause.
+5. Escalation: SLA breaches escalate to Treasury and Compliance; ITSM tickets must include RCA.

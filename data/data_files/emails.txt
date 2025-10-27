@@ -1,0 +1,238 @@
+From: maria.g@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-01-20 00:22:21
+Subject: [Action Required] Settlement Break B30009 for T9023
+
+Team,
+
+We have a settlement failure for trade T9023 (AAPL.O). Reason: StaticDataError. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+maria.g
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-01-20 02:22:21
+Subject: Re: [Action Required] Settlement Break B30009 for T9023
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to GPM_Analyst2. ITSM ticket created: ITSM7021
+
+
+From: li.chen@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-07-01 20:43:15
+Subject: [Action Required] Settlement Break B30017 for T9038
+
+Team,
+
+We have a settlement failure for trade T9038 (AAPL.O). Reason: AutoDetected. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+li.chen
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-07-01 22:43:15
+Subject: Re: [Action Required] Settlement Break B30017 for T9038
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to GPM_Analyst3. ITSM ticket created: ITSM7012
+
+
+From: sara.r@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-01-21 01:06:12
+Subject: [Action Required] Settlement Break B30027 for T9035
+
+Team,
+
+We have a settlement failure for trade T9035 (AAPL.O). Reason: SSI_Mismatch. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+sara.r
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-01-21 03:06:12
+Subject: Re: [Action Required] Settlement Break B30027 for T9035
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to GPM_Analyst1. ITSM ticket created: ITSM7013
+
+
+From: sara.r@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-08-31 07:16:11
+Subject: [Action Required] Settlement Break B30029 for T9009
+
+Team,
+
+We have a settlement failure for trade T9009 (SPX_OPT). Reason: IntegrationError. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+sara.r
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-08-31 09:16:11
+Subject: Re: [Action Required] Settlement Break B30029 for T9009
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to StaticDataTeam. ITSM ticket created: ITSM7003
+
+
+From: li.chen@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-02-16 13:42:29
+Subject: [Action Required] Settlement Break B30007 for T9044
+
+Team,
+
+We have a settlement failure for trade T9044 (SPX_OPT). Reason: ToleranceExceeded. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+li.chen
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-02-16 15:42:29
+Subject: Re: [Action Required] Settlement Break B30007 for T9044
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to CustodyOps. ITSM ticket created: ITSM7016
+
+
+From: li.chen@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-07-26 09:30:12
+Subject: [Action Required] Settlement Break B30008 for T9022
+
+Team,
+
+We have a settlement failure for trade T9022 (EURUSDSPOT). Reason: CA_Not_Applied. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+li.chen
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-07-26 11:30:12
+Subject: Re: [Action Required] Settlement Break B30008 for T9022
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to CustodyOps. ITSM ticket created: ITSM7013
+
+
+From: maria.g@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-05-24 16:16:28
+Subject: [Action Required] Settlement Break B30013 for T9024
+
+Team,
+
+We have a settlement failure for trade T9024 (SPX_OPT). Reason: StaticDataError. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+maria.g
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-05-24 18:16:28
+Subject: Re: [Action Required] Settlement Break B30013 for T9024
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to GPM_Analyst2. ITSM ticket created: ITSM7025
+
+
+From: li.chen@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-04-20 20:06:45
+Subject: [Action Required] Settlement Break B30001 for T9046
+
+Team,
+
+We have a settlement failure for trade T9046 (EURUSDSPOT). Reason: IntegrationError. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+li.chen
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-04-20 22:06:45
+Subject: Re: [Action Required] Settlement Break B30001 for T9046
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to StaticDataTeam. ITSM ticket created: ITSM7006
+
+
+From: li.chen@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-02-24 01:45:42
+Subject: [Action Required] Settlement Break B30014 for T9034
+
+Team,
+
+We have a settlement failure for trade T9034 (CDS_UK). Reason: ToleranceExceeded. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+li.chen
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-02-24 03:45:42
+Subject: Re: [Action Required] Settlement Break B30014 for T9034
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to CustodyOps. ITSM ticket created: ITSM7005
+
+
+From: li.chen@bank.com
+To: gpm_ops@bank.com
+CC: staticdata@bank.com,custody@bank.com,it_support@bank.com
+Date: 2025-07-01 20:43:15
+Subject: [Action Required] Settlement Break B30017 for T9038
+
+Team,
+
+We have a settlement failure for trade T9038 (AAPL.O). Reason: AutoDetected. This affects client P&L reporting and may impact T+1 regulatory submission. Please advise corrective action and timeline.
+
+Regards,
+li.chen
+
+-----Forwarded Message-----
+From: custody@custodian.com
+To: gpm_ops@bank.com
+Date: 2025-07-01 22:43:15
+Subject: Re: [Action Required] Settlement Break B30017 for T9038
+
+Custodian: We see SSI mismatch. Provide updated instructions.
+
+Ops Reply: Assigned to GPM_Analyst3. ITSM ticket created: ITSM7022

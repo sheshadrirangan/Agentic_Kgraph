@@ -1,0 +1,11 @@
+CA_ID,Instrument,CA_Type,Effective_Date,Notes
+CA500,CDS_UK,Dividend,2025-02-03,Feed update required across subledgers
+CA501,JPM.N,RightsIssue,2025-01-04,Feed update required across subledgers
+CA502,USDJPYSPOT,Dividend,2025-06-06,Feed update required across subledgers
+CA503,AAPL.O,Split,2025-07-05,Feed update required across subledgers
+CA504,MSFT.O,SpinOff,2025-04-06,Feed update required across subledgers
+CA505,EURUSDSPOT,Dividend,2025-03-23,Feed update required across subledgers
+CA506,MSFT.O,RightsIssue,2025-06-12,Feed update required across subledgers
+CA507,EURUSDSPOT,Split,2025-01-26,Feed update required across subledgers
+CA508,CDS_UK,Dividend,2025-04-25,Feed update required across subledgers
+CA509,AAPL.O,RightsIssue,2025-03-10,Feed update required across subledgers
