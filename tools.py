@@ -227,10 +227,10 @@ def load_product_nodes() -> Dict[str, Any]:
     )
 
 def load_position_nodes() -> Dict[str, Any]:
-    """Load the product nodes from products.csv"""
+    """Load the position nodes from positions.csv"""
     return load_nodes_from_csv(
-        "positions.csv",
+        "data_files/positions.csv",
         "Position",
         "Position_ID",
-        ["Trade_ID","Snapshot","Valuation_Date","Quantity","Market_Value,Book"]
+        ["Trade_ID", "Snapshot", "Valuation_Date", "Quantity", "Market_Value", "Book"]
     )
